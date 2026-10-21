@@ -9,3 +9,6 @@ __pycache__/
 
 # Editors
 *.swp
+
+# Separate repo (my fork): github.com/airCoder2/f1tenth_gym_ros
+src/f1tenth_gym_ros/
