@@ -1,0 +1,11 @@
+# ROS 2 build output
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors
+*.swp
